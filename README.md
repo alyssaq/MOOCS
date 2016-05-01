@@ -24,12 +24,12 @@ My pick is [Python](https://gist.github.com/alyssaq/f60393545173379e0f3f)
 * Wikipedia and lots of blogs
 
 ## Machine Learning
-* Coursera Standford Uni: [Machine Learning](https://www.coursera.org/learn/machine-learning)
+* Coursera Stanford Uni: [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * Coursera Uni of Toronto: [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
-* Coursera Standard Uni: [Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
+* Coursera Stanford Uni: [Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
 
 ## Artifical Intelligence and Robotics
-* Udacity Standford Uni: [Intro to Artifical Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* Udacity Stanford Uni: [Intro to Artifical Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 * Edx UC Berkeley: [Artifical Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x)
 * Edx Uni of Munich: [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0)
 * Queensland Uni of Tech: [Introduction to Robotics](https://moocs.qut.edu.au/learn/introduction-to-robotics-august-2015)
