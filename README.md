@@ -19,16 +19,18 @@ The aim is to self-learn the equivalent of [CMU's Master of Computer Vision](htt
 ## Statistics and Data Analysis
 * Khan Academy: [Probability and Statistics](https://www.khanacademy.org/mission/probability)
 * [Elements of Statistical Learning ebook](http://statweb.stanford.edu/~tibs/ElemStatLearn)
+* MIT OCW: [ Probabilistic Systems Analysis and Applied Probability](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/video-lectures)
 * Coursera Uni of Washington: [Computational Methods for Data Analysis](https://class.coursera.org/compmethods-005)
 
-## Fast Fourier Transform - fourier series, discrete/continuous FFT
+## Signal Processing - Fourier series, discrete/continuous FFT
 * [DSP Guide ebook](http://www.dspguide.com/ch1.htm)
-* Wikipedia and lots of blogs
+* MIT OCW: [Digital Signal Processing](http://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/index.htm)
 
 ## Machine Learning
 * Coursera Stanford Uni: [Machine Learning](https://www.coursera.org/learn/machine-learning)
 * Coursera Uni of Toronto: [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 * Coursera Stanford Uni: [Probabilistic Graphical Models](https://www.coursera.org/course/pgm)
+* [Neural Networks and Deep Learning ebook](http://neuralnetworksanddeeplearning.com)
 
 ## Artifical Intelligence and Robotics
 * Udacity Stanford Uni: [Intro to Artifical Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
@@ -42,5 +44,6 @@ The aim is to self-learn the equivalent of [CMU's Master of Computer Vision](htt
 * [Multiple View Geometry in Computer Vision by Hartley & Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
 * [Computer Vision A Modern Approach by Forsyth, Ponce](https://cdn.preterhuman.net/texts/science_and_technology/artificial_intelligence/Computer%20Vision%20A%20Modern%20Approach%20-%20Forsyth%20,%20Ponce.pdf)
 * [Princeton Vision & Robotics](http://robots.princeton.edu/courses.html)
+
 
 To add: Kalman filters
