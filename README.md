@@ -12,7 +12,7 @@ My pick is [Python](https://gist.github.com/alyssaq/f60393545173379e0f3f)
 * Edx Uni of Texas: [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/UTAustinX/UT.5.02x/1T2015/info)
 
 #### Level 2
-* MIT OCW: [Linear Algebra by Prof Gilbery Strang](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :heart:
+* MIT OCW: [Linear Algebra by Prof Gilbert Strang](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) :heart:
 
 ## Statistics and Data Analysis
 * Khan Academy: [Probability and Statistics](https://www.khanacademy.org/mission/probability)
@@ -20,7 +20,7 @@ My pick is [Python](https://gist.github.com/alyssaq/f60393545173379e0f3f)
 * Coursera Uni of Washington: [Computational Methods for Data Analysis](https://class.coursera.org/compmethods-005)
 
 ## Fast Fourier Transform - fourier series, discrete/continuous FFT
-* [DSP Guide book](http://www.dspguide.com/ch1.htm)
+* [DSP Guide ebook](http://www.dspguide.com/ch1.htm)
 * Wikipedia and lots of blogs
 
 ## Machine Learning
