@@ -5,6 +5,8 @@ Courses that I plan to enjoy, am currently enjoying or have enjoyed.
 To best way to learn is to put it into practice. So code it!    
 My pick is [Python](https://gist.github.com/alyssaq/f60393545173379e0f3f)
 
+The aim is to self-learn the equivalent of [CMU's Master of Computer Vision](http://www.ri.cmu.edu/ri_static_content.html?menu_id=481)
+
 ## Linear Algebra - eigens, least squares, svd, markov
 #### Level 1
 * Khan Academy: [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
