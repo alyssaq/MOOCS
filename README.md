@@ -43,7 +43,7 @@ The aim is to self-learn the equivalent of [CMU's Master of Computer Vision](htt
 * Queensland Uni of Tech: [Introduction to Robotics](https://moocs.qut.edu.au/learn/introduction-to-robotics-august-2015)
 
 ## Computer Vision - 3D geometry, visual recognition
-* [Multiple View Geometry in Computer Vision by Hartley & Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/) (The best reference book for geometry in CV)
+* [Multiple View Geometry in Computer Vision by Hartley & Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/) (Best reference book for geometry in CV)
 * [EENG512 - Computer Vision by William Hoff](https://www.youtube.com/playlist?list=PL4B3F8D4A5CAD8DA3) (Matlab examples but videos are fantastic) :+1:
 * Standford Uni: [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/2017/)
 * CMU: [16-385 Computer Vision](http://www.cs.cmu.edu/~16385/) (Assignments in Matlab)
