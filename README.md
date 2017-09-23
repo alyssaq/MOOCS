@@ -1,6 +1,6 @@
 # MOOCS I love
 
-Courses that I plan to enjoy, am currently enjoying or have enjoyed.
+Courses, lectures and resources that I plan to enjoy, am currently enjoying or have enjoyed.
 
 To best way to learn is to put it into practice. So code it!    
 My choice is [Python](https://gist.github.com/alyssaq/f60393545173379e0f3f)
