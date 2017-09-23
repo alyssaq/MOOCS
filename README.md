@@ -5,7 +5,7 @@ Courses, lectures and resources that I plan to enjoy, am currently enjoying or h
 To best way to learn is to put it into practice. So code it!    
 My choice is [Python](https://gist.github.com/alyssaq/f60393545173379e0f3f)
 
-The aim is to self-learn the equivalent of [CMU's Master of Computer Vision](http://www.ri.cmu.edu/ri_static_content.html?menu_id=481)
+The aim is to self-learn the equivalent of [CMU's Master of Computer Vision](http://ri.cmu.edu/education/academic-programs/master-of-science-computer-vision-mscv/mscv-program-curriculum)
 
 ## Linear Algebra - eigens, least squares, svd, markov
 #### Level 1
